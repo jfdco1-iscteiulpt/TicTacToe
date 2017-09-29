@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Galo</string>
+    <string name="menu_regras">Regras</string>
+    <string name="start_symbol">Simbolo de Início</string>
+    <string name="player1">Jogador 1</string>
+    <string name="player2">Jogador 2</string>
+    <string name="cross">X</string>
+    <string name="circle">O</string>
+    <string name="menu_ultimos_jogos">Ultimos Jogos</string>
+</resources>

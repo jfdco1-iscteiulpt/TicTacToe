@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="startsym"
+        android:title="@string/start_symbol"
+        android:entries="@array/array_opcoes"
+        android:entryValues="@array/array_valores"
+        android:summary="X"/>
+
+    <EditTextPreference
+        android:key="p1"
+        android:title="@string/player1"
+        android:summary=""/>
+
+    <EditTextPreference
+        android:key="p2"
+        android:title="@string/player2"
+        android:summary=""/>
+
+
+</PreferenceScreen>
